@@ -1,0 +1,12 @@
+# App server
+uwsgi==2.0.17
+
+# Flask Stuff
+Flask==0.10.1
+
+#
+flask-cors==3.0.3
+
+#
+requests==2.12.3
+
